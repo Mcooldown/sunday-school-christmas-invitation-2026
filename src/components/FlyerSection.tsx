@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
-import christmasFlyerImg from '../assets/christmas-flyer.jpg';
+import christmasFlyerImg from '../assets/christmas-flyer-2.jpg';
 import { EVENT_DATA } from '../constants/eventData';
 import { useScrollReveal } from '../hooks/useScrollReveal';
 import {
